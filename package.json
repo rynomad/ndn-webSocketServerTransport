@@ -1,0 +1,26 @@
+{
+  "name": "ndn-webSocketServerTransport",
+  "version": "0.0.0",
+  "description": "ndn transport module to wrap an existing websocket connection to a client",
+  "main": "index.js",
+  "dependencies": {
+    "ndn-lib": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rynomad/ndn-webSocketServerTranpsort.git"
+  },
+  "keywords": [
+    "NDN"
+  ],
+  "author": "Ryan Bennett (based on webSocketTransport from UCLA's ndn-js)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/rynomad/ndn-webSocketServerTranpsort/issues"
+  },
+  "homepage": "https://github.com/rynomad/ndn-webSocketServerTranpsort"
+}
